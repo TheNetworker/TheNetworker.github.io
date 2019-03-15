@@ -1,0 +1,516 @@
+{
+    "links": [
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 5,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 3,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 2,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 4,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 6,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 0,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 7,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 0,
+            "weight": 5
+        },
+        {
+            "instance": "VS_EVPN_OAM",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "VS_EVPN_OAM",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 5,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 3,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 2,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 4,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 6,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 0,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 7,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 3,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 2,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 4,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 6,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 0,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 7,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 4,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 3,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 8,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 11,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 3,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 2,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 1,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 4,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 6,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 0,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 7,
+            "weight": 5
+        },
+        {
+            "instance": "",
+            "source": 9,
+            "target": 10,
+            "weight": 5
+        }
+    ],
+    "nodes": [
+        {
+            "character": "vrouter.21",
+            "id": 0,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.35",
+            "id": 1,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.27",
+            "id": 2,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.26",
+            "id": 3,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.29",
+            "id": 4,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.28",
+            "id": 5,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.14",
+            "id": 6,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.15",
+            "id": 7,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "vrouter.22",
+            "id": 8,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "SDN_GW01",
+            "id": 9,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "SDN_LEAF02",
+            "id": 10,
+            "influence": 4,
+            "zone": 0
+        },
+        {
+            "character": "SDN_LEAF01",
+            "id": 11,
+            "influence": 4,
+            "zone": 0
+        }
+    ]
+}
